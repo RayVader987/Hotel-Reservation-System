@@ -7,7 +7,7 @@ import requests
 import db_config
 
 # Fast2SMS configuration
-FAST2SMS_API_KEY = "nIGOyi7dTeonyLkUyywqSAZvH6XP7imrSKpDFypc64s0oFdh0lsXVQOG5CTw"  # Replace with your actual API key
+FAST2SMS_API_KEY = "Replace with your API here"  # Replace with your actual API key
 FAST2SMS_URL = "https://www.fast2sms.com/dev/bulkV2"
 
 INDIAN_PHONE_REGEX = r"^(\+91)?[6-9]\d{9}$"
